@@ -1,54 +1,62 @@
 
-<h1 align="center">Hi, I'm Abir 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Flutter Developer · Web Developer · Shopify Solutions</strong>
-</p>
+# ABIR
 
-<p align="center">
-  Building modern applications and digital experiences.
-</p>
+### Flutter Developer · Web Engineer · Shopify Specialist
 
-<p align="center">
-  <a href="https://www.abir.info">
-    <img src="https://img.shields.io/badge/Portfolio-abir.info-0A7B5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+Building thoughtful digital products with clean code and modern design.
+
+[Portfolio](https://www.abir.info) · [GitHub](https://github.com/AbirCloud)
+
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/DART-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/SHOPIFY-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-222222?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-- 📱 Interested in Flutter & cross-platform app development
-- 🌐 Building responsive and modern websites
-- 🛍️ Focused on Shopify and e-commerce solutions
-- 🚀 Always learning and building new projects
+I build cross-platform mobile applications, modern websites, and e-commerce experiences with a focus on usability, performance, and maintainable code.
 
-### 🛠️ Tech Stack
+- **Mobile** — Flutter & Dart
+- **Web** — Responsive interfaces and modern frontend development
+- **Commerce** — Shopify customization and e-commerce solutions
+- **Portfolio** — [abir.info](https://www.abir.info)
+
+## Selected Work
+
+| Project | Focus |
+|:--|:--|
+| **Helza** | Workout & Fitness |
+| **Auvyra** | Health & Fitness |
+| **Dhaka Transit** | Transit & Local Navigation |
+
+*Selected projects include private repositories; source code is not publicly available.*
+
+## Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,nextjs,wordpress,git,github,vscode" alt="Technologies" />
 </p>
 
-### 🚀 Featured Projects
+## GitHub Activity
 
-- **Helza** — Workout and Fitness
-- **Auvyra** — Health and Fitness
-- **Dhaka Transit** — Transit guide and landmarks
+<div align="center">
 
-*Some projects are private and are listed here as descriptions only.*
+<img src="https://github-readme-stats.vercel.app/api?username=AbirCloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" height="165" alt="GitHub statistics" />
 
-### 📊 GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirCloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" height="165" alt="Most used languages" />
 
-![GitHub contribution graph](https://ghchart.rshah.org/AbirCloud)
+</div>
 
 ---
 
-<p align="center">
-  <strong>NEVER GIVE UP</strong>
-</p>
+<div align="center">
+
+*Design with purpose. Build with consistency.*
+
+</div>
